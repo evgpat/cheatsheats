@@ -74,7 +74,7 @@ imputer.fit(data)
 imputer.transform(data)
 ```
 
-### [PolynomialFeatures¶](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
+### [PolynomialFeatures](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.PolynomialFeatures.html)
 
 Generates polynomial and interaction features.
 Parameters: `degree` specifies the maximal degree of the polynomial features
