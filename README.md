@@ -1,2 +1,2 @@
-# cheatsheats
-Cheatsheats
+# Cheat Sheets
+All Cheat Sheets in one page
