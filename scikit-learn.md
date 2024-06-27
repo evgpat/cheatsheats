@@ -1,7 +1,7 @@
 # Scikit-learn
 A compilation of main commands for scikit-learn with examples. 
 
-- [scikit-learn-cheat-sheet](#scikit-learn-cheat-sheet)
+- [Scikit-learn](#Scikit-learn)
   - [1. Numerical data preprocessing](#1-numerical-data-preprocessing)
   - [2. Encoding](#2-encoding)
   - [3. Column selection and transformation](#3-column-selection-and-transformation)
